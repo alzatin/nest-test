@@ -186,23 +186,6 @@
             "x": 0.9854439592430859,
             "y": 0.5,
             "ioValues": []
-        },
-        {
-            "atomType": "Nest",
-            "name": "Nest",
-            "x": 0.8377001455604076,
-            "y": 0.7560240963855422,
-            "uniqueID": 711311,
-            "ioValues": [
-                {
-                    "name": "spacing",
-                    "ioValue": 0.3
-                },
-                {
-                    "name": "curveTolerance",
-                    "ioValue": 0.3
-                }
-            ]
         }
     ],
     "allConnectors": [
@@ -275,13 +258,6 @@
             "ap2Primary": false,
             "ap1ID": 161416,
             "ap2ID": 527763
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 608939,
-            "ap2ID": 711311
         },
         {
             "ap1Name": "geometry",
